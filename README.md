@@ -68,4 +68,5 @@ This notebook is part of an educational assignment and it includes unit tests (`
 
 # Additional Links
 Link to developed API - https://github.com/JoakBouy/tv-sales_api
+
 Link to Flutter application - https://github.com/JoakBouy/flutter-tv_sales
