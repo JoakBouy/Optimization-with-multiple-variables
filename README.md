@@ -65,3 +65,7 @@ These packages are imported at the beginning of the notebook and should be avail
 ## Note
 
 This notebook is part of an educational assignment and it includes unit tests (`w2_unittest.py`) to verify the correctness of the implemented solutions. The unit tests are imported and executed within the notebook.
+
+# Additional Links
+Link to developed API - https://github.com/JoakBouy/tv-sales_api
+Link to Flutter application - https://github.com/JoakBouy/flutter-tv_sales
